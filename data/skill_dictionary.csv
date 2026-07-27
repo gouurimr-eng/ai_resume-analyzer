@@ -1,0 +1,41 @@
+skill,category
+python,Programming
+java,Programming
+c++,Programming
+c#,Programming
+javascript,Programming
+html,Web Development
+css,Web Development
+django,Web Development
+flask,Web Development
+fastapi,Web Development
+sql,Database
+mysql,Database
+postgresql,Database
+mongodb,Database
+excel,Data Analysis
+pandas,Data Analysis
+numpy,Data Analysis
+power bi,Data Analysis
+tableau,Data Analysis
+statistics,Data Analysis
+machine learning,Machine Learning
+deep learning,Machine Learning
+scikit-learn,Machine Learning
+tensorflow,Machine Learning
+pytorch,Machine Learning
+nlp,Artificial Intelligence
+spacy,Artificial Intelligence
+transformers,Artificial Intelligence
+hugging face,Artificial Intelligence
+llm,Artificial Intelligence
+rag,Artificial Intelligence
+opencv,Computer Vision
+cnn,Computer Vision
+yolo,Computer Vision
+git,Tools
+github,Tools
+docker,DevOps
+mlflow,DevOps
+aws,Cloud
+azure,Cloud

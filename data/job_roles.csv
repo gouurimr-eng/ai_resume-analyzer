@@ -1,0 +1,7 @@
+job_role,required_skills
+Data Analyst,"python,sql,excel,pandas,power bi,data visualization,statistics"
+Machine Learning Engineer,"python,machine learning,scikit-learn,pandas,numpy,fastapi,docker,mlflow"
+AI Engineer,"python,deep learning,llm,rag,api,pytorch,tensorflow"
+NLP Engineer,"python,nlp,transformers,hugging face,spacy,machine learning"
+Computer Vision Engineer,"python,opencv,cnn,yolo,tensorflow,pytorch"
+Python Developer,"python,django,flask,fastapi,sql,git,api"ai-resume-analyzer/data.txt
